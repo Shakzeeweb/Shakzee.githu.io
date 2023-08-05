@@ -1,0 +1,31 @@
+body{
+    background-image:url(./Images/shakzee.png);
+  background-size: cover;
+  background-position: center;
+    background-attachment: fixed ;
+}
+span{
+    color :red;
+    font-weight:30px;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-weight:30px;
+ 
+}
+.contact{
+    text-align: center;
+    width: px;
+    height:px;
+    color:white;
+    margin-top:60px;
+    font-size:13px;
+line-height:1.7 ;
+font-weight:500;
+}
+i{
+    font-size:25px;
+    font-weight:200px;
+    color:red;
+}

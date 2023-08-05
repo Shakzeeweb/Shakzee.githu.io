@@ -1,0 +1,61 @@
+body{
+    background-image:url(./Images/shakzee.png);
+  background-size: cover;
+  background-position: center;
+    background-attachment: fixed ;
+}
+  
+ .design{
+    height: 200px;
+    width:300px;
+   background:white;
+   text-align: center;
+   justify-content: center;
+   align-items: center;
+   border-radius: 20px;
+    margin-left:20px;
+}
+.development{
+height: 200px;
+    width:300px;
+   background:white;
+   text-align: center;
+   margin-top:50px;
+   border-radius: 20px;
+   margin-left:20px;
+    
+}
+p{
+    margin-top:50px;
+}
+
+h2{
+    margin-top:50%;
+    padding-top:20x;
+    font-weight:10px;
+}
+    
+  .meter{
+      position: absolute;
+      top:125%;
+      left:37%;
+     padding:10px;
+  }
+  
+span{
+    color :red;
+    font-weight:30px;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-weight:30px;
+ 
+}
+i{
+    font-size:30px;
+    color:red;
+}
+h3{
+    color:white;
+}
